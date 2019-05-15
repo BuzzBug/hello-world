@@ -2,4 +2,4 @@
 first repository/ for plans
 
 
-This is a repository for work.
+This is a repository for work
